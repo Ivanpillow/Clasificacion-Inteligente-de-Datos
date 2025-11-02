@@ -1,2 +1,2 @@
-# Clasificaci-n-Inteligente-de-Datos
+# Clasificacion-Inteligente-de-Datos
 Dentro de este repo subiré mis actividades tipo Hands On
